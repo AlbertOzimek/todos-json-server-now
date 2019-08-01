@@ -1,4 +1,4 @@
 ### Run
 ```
-npx github:johnlindquist/todos-api
+npx github:albertozimek/todos-api
 ```
