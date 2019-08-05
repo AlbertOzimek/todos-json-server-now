@@ -15,7 +15,7 @@ module.exports = () => {
         done: false
       },
       {
-        text: "Code",
+        text: "Exercise",
         id: 3,
         done: false
       }

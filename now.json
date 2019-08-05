@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "todos-api",
+  "name": "todos-json-server-now",
   "builds": [{ "src": "index.js", "use": "@now/node-server" }],
   "routes": [
     {
