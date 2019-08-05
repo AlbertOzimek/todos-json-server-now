@@ -5,19 +5,19 @@ module.exports = () => {
   const data = {
     todos: [
       {
-        task: "Eat",
+        text: "Eat",
         id: 1,
-        complete: false
+        done: false
       },
       {
-        task: "Sleep",
-        id: 1,
-        complete: false
+        text: "Sleep",
+        id: 2,
+        done: false
       },
       {
-        task: "Code",
-        id: 1,
-        complete: false
+        text: "Code",
+        id: 3,
+        done: false
       }
     ]
   };
