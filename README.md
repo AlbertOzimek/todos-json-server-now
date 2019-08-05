@@ -5,11 +5,17 @@ yarn global add now
 ```
 
 or
+
 ```
 npm i -g now
 ```
 
 # Deploy
+
 ```
-now johnlindquist/todos
+now
 ```
+
+# Deployed to:
+
+https://todos-api.albertozimek.now.sh/todos
