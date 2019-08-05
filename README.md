@@ -1,9 +1,8 @@
 ### Run
+
 ```
 npx github:albertozimek/todos-api
 ```
-<<<<<<< HEAD
-=======
 
 or
 
@@ -20,4 +19,3 @@ now
 # Deployed to:
 
 https://todos-api.albertozimek.now.sh/todos
->>>>>>> now
